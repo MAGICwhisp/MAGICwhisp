@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**MAGICwhisp/MAGICwhisp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm MAGICwhisp, a Minecraft YouTuber and creator! 🎮
 
-Here are some ideas to get you started:
+This profile is dedicated to **Minecraft only**. I create Minecraft skins, share Minecraft content, and work on all kinds of Minecraft-related projects and creations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+
+- 🎥 Create Minecraft YouTube videos
+- 🎨 Design and create Minecraft skins
+- ⛏️ Explore Minecraft ideas, builds, and creations
+- 💡 Work on anything and everything Minecraft-related
+
+If it's about Minecraft, I'm interested! Thanks for stopping by. ⭐
